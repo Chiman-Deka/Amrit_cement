@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Amrit_cement/static/css/main.4a18a9fe.css",
+    "main.js": "/Amrit_cement/static/js/main.f05a18e5.js",
+    "static/js/787.90c23d1b.chunk.js": "/Amrit_cement/static/js/787.90c23d1b.chunk.js",
+    "index.html": "/Amrit_cement/index.html",
+    "main.4a18a9fe.css.map": "/Amrit_cement/static/css/main.4a18a9fe.css.map",
+    "main.f05a18e5.js.map": "/Amrit_cement/static/js/main.f05a18e5.js.map",
+    "787.90c23d1b.chunk.js.map": "/Amrit_cement/static/js/787.90c23d1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a18a9fe.css",
+    "static/js/main.f05a18e5.js"
+  ]
+}
